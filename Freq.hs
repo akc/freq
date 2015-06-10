@@ -1,10 +1,10 @@
 -- |
--- Copyright   : Anders Claesson 2014
+-- Copyright   : Anders Claesson 2014, 2015
 -- Maintainer  : Anders Claesson <anders.claesson@gmail.com>
 -- License     : BSD-3
 --
 
-module Math.Freq
+module Freq
     ( freqMap
     , freq
     , distMap
